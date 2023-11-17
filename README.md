@@ -72,7 +72,3 @@ This project is maintained by [Your Name], and contributions are welcome.
 - ProductHunt Newsletters
 - Wired Newsletters
 - Charged Newsletters
-
-## Contributors
-
-- [Your Name](https://github.com/your-username)
